@@ -1,0 +1,14 @@
+{
+  "name": "hashandsign",
+  "version": "1.0.0",
+  "description": "Encode create hash and sign the data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
